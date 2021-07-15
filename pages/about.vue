@@ -30,26 +30,19 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Meet Others >>>
+                Meet Others >
               </p>
               <p class="subtitle">
-                Just as cool
               </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
             </article>
           </div>
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                All the cool
+                Improve!
               </p>
               <p class="subtitle">
               </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
             </article>
           </div>
         </div>

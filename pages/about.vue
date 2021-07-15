@@ -25,9 +25,6 @@
               </p>
               <p class="subtitle">
               </p>
-              <figure class="image is-1by1">
-                <>
-              </figure>
             </article>
           </div>
           <div class="tile is-parent">

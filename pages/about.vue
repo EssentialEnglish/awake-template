@@ -8,27 +8,12 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>Who are we?</h3>
           <p>
-            <strong>
-              Who are we?
-            </strong>
           </p>
           <p>
             We are experienced English teachers who want learners to be able to meet other learners from around the world and discuss important and intersting issues.
             We encourage you to use our Slack room to meet other learners and improve your listening and speaking skills as well as learning about each others cultures for FREE!
-          </p>
-          <quote-card />
-          <h3>Still More Fake Content</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit! Lorem ipsum dolor sit amet, consectetur
-            adipisicing elit.
-            <strong>Alias aut facere harum ipsam</strong> quibusdam quidem
-            quisquam saepe? Alias architecto blanditiis consequatur consequuntur
-            dicta ipsa iste modi provident, quod, similique veritatis.
           </p>
         </div>
 

@@ -21,7 +21,7 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Join Slack
+                Join Slack >>>
               </p>
               <p class="subtitle">
               </p>
@@ -30,7 +30,7 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Other Cool Things
+                Meet Others >>>
               </p>
               <p class="subtitle">
                 Just as cool
@@ -46,7 +46,6 @@
                 All the cool
               </p>
               <p class="subtitle">
-                that is all
               </p>
               <figure class="image is-1by1">
                 <opti-image width="500" height="500" />

@@ -2,4 +2,4 @@
 name: About Awake
 image: /logo.svg
 ---
-All about the Awake Nuxt Template
+A brief overview of some Essential Foundations of the English language

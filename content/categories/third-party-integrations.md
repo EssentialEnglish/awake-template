@@ -1,5 +1,6 @@
 ---
-name: Third Party Integrations
-image: https://picsum.photos/1800/1801
+name: Essential News
+image: /uploads/essential-news.jpg
+description: A look at important recent events.
 ---
 Extend the functionality of Awake with third party integrations

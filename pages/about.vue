@@ -12,8 +12,8 @@
           <p>
           </p>
           <p>
-            We are experienced English teachers who want learners to be able to meet other learners from around the world and discuss important and intersting issues.
-            We encourage you to use our Slack room to meet other learners and improve your listening and speaking skills as well as learning about each others cultures for FREE!
+            We are experienced English teachers who want learners to be able to meet other learners from around the world and discuss important and interesting issues. 
+            We encourage you to use our Slack room to meet other learners and improve your listening and speaking skills as well as learning about each other's cultures for FREE!
           </p>
         </div>
 
@@ -30,7 +30,7 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Meet Others >
+                > Meet Others >
               </p>
               <p class="subtitle">
               </p>
@@ -39,7 +39,7 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Learn More !
+                > Learn More !
               </p>
               <p class="subtitle">
               </p>

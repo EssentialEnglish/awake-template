@@ -13,21 +13,7 @@ A [compound noun](https://dictionary.cambridge.org/us/dictionary/english/compoun
 
 # Listening in Context
 
-Listen to Dr. Mercola at 2 mins 30 seconds saying, *"This is Orwellian doublespeak"* when speaking about his Facebook posts. 
-
-https://rumble.com/embed/vhbwx4/?pub=4
-
-<script>!function(r,u,m,b,l,e){r._Rumble=b,r[b]||(r[b]=function(){(r[b]._=r[b]._||[]).push(arguments);if(r[b]._.length==1){l=u.createElement(m),e=u.getElementsByTagName(m)[0],l.async=1,l.src="https://rumble.com/embedJS/u4"+(arguments[1].video?'.'+arguments[1].video:'')+"/?url="+encodeURIComponent(location.href)+"&args="+encodeURIComponent(JSON.stringify([].slice.apply(arguments))),e.parentNode.insertBefore(l,e)}})}(window, document, "script", "Rumble");</script>
-
-<div id="rumble_vhbwx4"></div>
-<script>
-Rumble("play", {"video":"vhbwx4","div":"rumble_vhbwx4"});</script>
-
-
-
-<iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/vhbwx4/?pub=4" frameborder="0" allowfullscreen></iframe>
-
-
+[Listen to Dr. Mercola at 2 mins 30 seconds saying, *"This is Orwellian doublespeak"* when speaking about his Facebook posts. ](https://rumble.com/vjy32e-the-biden-administration-is-promoting-digital-death.html)
 
 Listen to it at 0.5 or 0.75 speed if it's too quick for you.
 

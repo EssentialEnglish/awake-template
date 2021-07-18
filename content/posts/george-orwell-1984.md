@@ -15,19 +15,11 @@ A [compound noun](https://dictionary.cambridge.org/us/dictionary/english/compoun
 
 [Listen to Dr. Mercola at 2 mins 30 seconds saying, *"This is Orwellian doublespeak"* when speaking about his Facebook posts. ](https://rumble.com/vjy32e-the-biden-administration-is-promoting-digital-death.html)
 
-<iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/vhbwx4/?pub=4" frameborder="0" allowfullscreen></iframe>
-
-
-
 Listen to it at 0.5 or 0.75 speed if it's too quick for you.
 
 # Reading
 
-*[<!--StartFragment-->](https://www.thegatewaypundit.com/2021/07/new-uk-study-people-vaccinated-make-47-new-covid-cases/)*
-
 *[Data from a recently released study out of the UK, that uses data compiled from their Orwellian symptom-tracking app, shows vaccinated people account for almost half of the country’s new COVID cases.](https://www.thegatewaypundit.com/2021/07/new-uk-study-people-vaccinated-make-47-new-covid-cases/)*
-
-*[<!--EndFragment-->](https://www.thegatewaypundit.com/2021/07/new-uk-study-people-vaccinated-make-47-new-covid-cases/)*
 
 The word [Orwellian](https://www.macmillandictionary.com/dictionary/british/orwellian) entered the English language after George Orwell wrote his book: Nineteen Eighty-Four.
 

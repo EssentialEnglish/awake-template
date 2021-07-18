@@ -31,6 +31,16 @@ Other common words that come from Orwell's book 1984 include: [thoughtcrime](htt
 
 Orwell is often compared to Aldous Huxley. They both wrote fictional books about imaginary futures and both had an impact on the English language. Anyone learning the English language - especially if they are interested in politics - needs to read [Orwell's 1984](https://www.pearson.co.jp/en/catalog/product.php?item=404081&cat=005) and Huxley's [Brave New World](https://www.pearson.co.jp/en/catalog/product.php?item=406007).
 
+
+
+
+
+
+
+![HYDROGEN PEROXIDE Medical Miracle William Campbell Douglass, MD](/uploads/memory-hole.png "Medical Research went down the memory hole")
+
+
+
 # Discussion
 
 1. Which of Orwell's words did you already know?

@@ -1,6 +1,6 @@
 ---
 title: George Orwell - 1984
-subtitle: Essential for understanding modern news.
+subtitle: Essential for understanding modern news
 category:
   - Essential Foundations
 author: Eddie
@@ -14,6 +14,16 @@ A [compound noun](https://dictionary.cambridge.org/us/dictionary/english/compoun
 # Listening in Context
 
 Listen to Dr. Mercola at 2 mins 30 seconds saying, *"This is Orwellian doublespeak"* when speaking about his Facebook posts. 
+
+https://rumble.com/embed/vhbwx4/?pub=4
+
+<script>!function(r,u,m,b,l,e){r._Rumble=b,r[b]||(r[b]=function(){(r[b]._=r[b]._||[]).push(arguments);if(r[b]._.length==1){l=u.createElement(m),e=u.getElementsByTagName(m)[0],l.async=1,l.src="https://rumble.com/embedJS/u4"+(arguments[1].video?'.'+arguments[1].video:'')+"/?url="+encodeURIComponent(location.href)+"&args="+encodeURIComponent(JSON.stringify([].slice.apply(arguments))),e.parentNode.insertBefore(l,e)}})}(window, document, "script", "Rumble");</script>
+
+<div id="rumble_vhbwx4"></div>
+<script>
+Rumble("play", {"video":"vhbwx4","div":"rumble_vhbwx4"});</script>
+
+
 
 <iframe class="rumble" width="640" height="360" src="https://rumble.com/embed/vhbwx4/?pub=4" frameborder="0" allowfullscreen></iframe>
 
@@ -32,8 +42,6 @@ Orwellian, 1984, memory-hole, 2+2=5 and newspeak are now regularly used in every
 Other common words that come from Orwell's book 1984 include: [thoughtcrime](https://www.lexico.com/en/definition/thoughtcrime),  [Big Brother](https://www.macmillandictionary.com/dictionary/british/big-brother) and [Room 101](https://en.wikipedia.org/wiki/Room_101_(game_show)). As well as being used in everyday conversations and the news they have also become the names of popular TV shows. Other terms, such as [thought police](https://www.macmillandictionary.com/dictionary/british/thought-police), were not invented by Orwell but [were popularized](https://en.wikipedia.org/wiki/Thought_Police) by his book.
 
 Orwell is often compared to Aldous Huxley. They both wrote fictional books about imaginary futures and both had an impact on the English language. Anyone learning the English language - especially if they are interested in politics - needs to read [Orwell's 1984](https://www.pearson.co.jp/en/catalog/product.php?item=404081&cat=005) and Huxley's [Brave New World](https://www.pearson.co.jp/en/catalog/product.php?item=406007).
-
-
 
 # Discussion
 

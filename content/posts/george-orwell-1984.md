@@ -9,7 +9,7 @@ featureImage: /uploads/george-orwell-1984.jpg
 ---
 # Grammar
 
-A [compound noun](https://dictionary.cambridge.org/us/dictionary/english/compound-noun) is a [noun](https://dictionary.cambridge.org/us/dictionary/english/noun "noun") that is made up of two or more different words, for [example](https://dictionary.cambridge.org/us/dictionary/english/example "example"), "[cake](https://dictionary.cambridge.org/us/dictionary/english/cake "cake") [shop](https://dictionary.cambridge.org/us/dictionary/english/shop "shop")," "[French](https://dictionary.cambridge.org/us/dictionary/english/french "French") [fries](https://dictionary.cambridge.org/us/dictionary/english/fries "fries")," "[high-flyer](https://dictionary.cambridge.org/us/dictionary/english/high-flyer "high-flyer")," or "[schoolteacher](https://dictionary.cambridge.org/us/dictionary/english/schoolteacher "schoolteacher")"
+A [compound noun](https://dictionary.cambridge.org/us/dictionary/english/compound-noun) is a [noun](https://dictionary.cambridge.org/us/dictionary/english/noun "noun") that is made up of two or more different words, for example, "[cake](https://dictionary.cambridge.org/us/dictionary/english/cake "cake") [shop](https://dictionary.cambridge.org/us/dictionary/english/shop "shop")," "[French](https://dictionary.cambridge.org/us/dictionary/english/french "French") [fries](https://dictionary.cambridge.org/us/dictionary/english/fries "fries")," "[high-flyer](https://dictionary.cambridge.org/us/dictionary/english/high-flyer "high-flyer")," or "[schoolteacher](https://dictionary.cambridge.org/us/dictionary/english/schoolteacher "schoolteacher")"
 
 # Listening in Context
 
@@ -18,8 +18,6 @@ A [compound noun](https://dictionary.cambridge.org/us/dictionary/english/compoun
 Listen to it at 0.5 or 0.75 speed if it's too quick for you.
 
 # Reading
-
-*[Data from a recently released study out of the UK, that uses data compiled from their Orwellian symptom-tracking app, shows vaccinated people account for almost half of the country’s new COVID cases.](https://www.thegatewaypundit.com/2021/07/new-uk-study-people-vaccinated-make-47-new-covid-cases/)*
 
 The word [Orwellian](https://www.macmillandictionary.com/dictionary/british/orwellian) entered the English language after George Orwell wrote his book: Nineteen Eighty-Four.
 
@@ -31,6 +29,13 @@ Other common words that come from Orwell's book 1984 include: [thoughtcrime](htt
 
 Orwell is often compared to Aldous Huxley. They both wrote fictional books about imaginary futures and both had an impact on the English language. Anyone learning the English language - especially if they are interested in politics - needs to read [Orwell's 1984](https://www.pearson.co.jp/en/catalog/product.php?item=404081&cat=005) and Huxley's [Brave New World](https://www.pearson.co.jp/en/catalog/product.php?item=406007).
 
+# Orwell in the news
+
+![The Telegraph](/uploads/telegraph.png "The Telegraph")
+
+# Orwell in Medical Literature
+
+
 
 
 
@@ -38,8 +43,6 @@ Orwell is often compared to Aldous Huxley. They both wrote fictional books about
 
 
 ![HYDROGEN PEROXIDE Medical Miracle William Campbell Douglass, MD](/uploads/memory-hole.png "Medical Research went down the memory hole")
-
-
 
 # Discussion
 

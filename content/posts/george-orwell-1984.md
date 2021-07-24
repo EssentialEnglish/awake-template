@@ -35,15 +35,14 @@ Orwell is often compared to Aldous Huxley. They both wrote fictional books about
 
 # Orwell in Medical Literature
 
-
 ![HYDROGEN PEROXIDE Medical Miracle William Campbell Douglass, MD](/uploads/memory-hole.png "Medical Research went down the memory hole")
 
 # Discussion
 
 1. Which of Orwell's words did you already know?
 2. Do politicians in your country use Orwellian doublespeak?
-3. What kind of government would you like in the future?
+3. What kind of government would you like to have in the future?
 4. Do you think Orwell's vision of the future is possible in reality?
-5. Have you ever seen the TV shows Big Brother or Room 101?
+5. Do you have Orwellian words in your language?
 
 [Join our Slack group](https://join.slack.com/t/essential-english/shared_invite/zt-stozzkc3-BacHatpqgrT3b0ilvdDqGQ) and discuss this article and these questions with other people from around the world.

@@ -21,7 +21,7 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                > Join Slack >
+                  Join Slack 
               </p>
               <p class="subtitle">
               </p>
@@ -30,7 +30,7 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                > Meet Others
+                  Meet Others
               </p>
               <p class="subtitle">
               </p>
@@ -39,7 +39,7 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                > Learn More !
+                  Learn More 
               </p>
               <p class="subtitle">
               </p>

@@ -9,15 +9,13 @@ featureImage: /uploads/transhumanism-technology-evolution.jpg
 ---
 # Grammar
 
-Relative clauses with 'who' give us more information about someone. <!--StartFragment-->
+Relative clauses with 'who' give us more information about someone. 
 
 We use *who* as a relative pronoun to introduce a relative clause about people:
 
 > *The police officer who came was a friend of my father’s.*
 >
 > *He shared a flat with Anne Bolton, who he married, and eventually they moved to Australia.*
-
-<!--EndFragment-->
 
 
 
@@ -29,7 +27,7 @@ Listen to it at 0.5 or 0.75 speed if it's too quick for you.
 
 # Reading
 
-<!--StartFragment-->
+
 
 The French philosopher [Henri De Saint-Simon](https://www.britannica.com/biography/Henri-de-Saint-Simon) wrote,
 
@@ -46,8 +44,6 @@ Henri De Saint-Simon is seen by many as an early [technocrat](https://dictionary
 Technocracy and transhumanism are together known as [scientism](https://www.philosophybasics.com/branch_scientism.html). In scientism, humans replace God as the ‘immortal manufacturer of worlds’. But, it’s not all humans that will replace God, it’s only those scientists who are superior to all other men. Now that [gene editing is possible](https://www.goodreads.com/book/show/30971755-a-crack-in-creation) and [microchips are getting smaller](https://www.medgadget.com/2016/06/tiny-new-antenna-injectable-medical-devices.html) and more powerful we have to wonder if we want people like Musk and Bezos to have the power over how humanity is organised and society works.
 
 
-
-<!--EndFragment-->
 
 # Transhumanism in the News
 

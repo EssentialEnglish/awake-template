@@ -19,7 +19,7 @@ featureImage: /uploads/nightshift.jpg
 >
 > *What time does their flight to Seoul leave?* (a schedule)
 
-
+The reading below uses the present simple to introduce the video presentation. The present simple is often used to introduce topics that will be presented very soon in the future. 
 
 # Listening in Context
 
@@ -33,15 +33,13 @@ We begin with an open question in biology—how do the shapes of creatures come 
 
 We repeat the 70 year-old idea that DNA alone somehow determines everything, though there is surprisingly little evidence. The story of DNA that we grew up with—and still teach our children—is not only wrong, it's harmful to our spirit because it gives us a false understanding of ourselves and our relationship to the universe. 
 
-Astrophysicist and Lead Scientist of The SAFIRE Project Michael Clarage, PhD, highlights some of the evidence for the role of electricity in how plant and animal shapes come to be, and the role of electric fields in how inorganic objects obtain their shapes.
+[Astrophysicist](https://dictionary.cambridge.org/dictionary/english/astrophysicist?q=Astrophysicist) and Lead Scientist of [The SAFIRE Project](https://aureon.ca/) Michael Clarage, PhD, highlights some of the evidence for the role of electricity in how plant and animal shapes come to be, and the role of [electric fields](https://dictionary.cambridge.org/dictionary/english/electric-field?q=electric+fields) in how [inorganic](https://dictionary.cambridge.org/dictionary/english/inorganic) objects obtain their shapes.
 
-We examine three fundamental questions in the second episode of this two-part presentation. Is matter even capable of organizing itself? Where do form and shape come from? Can form exist without matter? 
+We examine three [fundamental](https://dictionary.cambridge.org/dictionary/english/fundamental) questions in the [second episode of this two-part presentation](https://www.youtube.com/watch?v=DnFvTyG5QZM&t=4s). Is matter even capable of organizing itself? Where do form and shape come from? Can form exist without matter? 
 
-Researching the origin of forms in Nature for several decades, Astrophysicist and Lead Scientist of The SAFIRE Project, Michael Clarage, PhD, has found none of our current sciences very good at describing how forms arise. Be it geology, physics, chemistry, biology, or astronomy, there is a substantial amount of hand-waving when it comes to describing how form occurs.
+Researching the origin of forms in Nature for several decades, Michael Clarage, PhD, has found none of our current sciences very good at describing how forms arise. Be it geology, physics, chemistry, biology, or astronomy, there is a substantial amount of [dismissiveness](https://www.lexico.com/en/definition/dismissiveness) when it comes to describing how form occurs.
 
-Dr. Clarage conveys a powerful and profound idea. When your purpose changes, your shape changes. Purpose is causal. It makes things happen and presents a more useful and meaningful cosmology for all.
-
-
+Dr. Clarage [conveys](https://dictionary.cambridge.org/dictionary/english/convey?q=conveys) a powerful and [profound](https://dictionary.cambridge.org/dictionary/english/profound) idea. When your purpose changes, your shape changes. Purpose is [causal](https://dictionary.cambridge.org/dictionary/english/causal). It makes things happen and presents a more useful and meaningful [cosmology](https://dictionary.cambridge.org/dictionary/english/cosmology) for all.
 
 # Electricity in the News
 
@@ -51,14 +49,14 @@ Dr. Clarage conveys a powerful and profound idea. When your purpose changes, you
 
 ![cymatics ](/uploads/the-golden-ratio-teaser.jpg "cymatics")
 
-![Bending Water](/uploads/images-2-.jpg "Bending Water")
+![Bending Water](/uploads/snow.jpg "Bending Water")
 
 # Discussion
 
-1. Would you like your mind to be uploaded into the cloud for eternity?
-2. Are there technocrats in your country?
-3. What kind of technology would you like to have in the future?
-4. Do you think Winwood Reade's vision of the future is possible in reality?
-5. Have you seen the movie Metropolis from 1927?
+1. Have you seen the effects of cymatic frequencies?
+2. Have you seen the Fibonacci series in nature?
+3. Have you seen the aurora borealis?
+4. What role does electricity play in your body?
+5. What role does electricity play in the universe?
 
 [Join our Slack group](https://join.slack.com/t/essential-english/shared_invite/zt-stozzkc3-BacHatpqgrT3b0ilvdDqGQ) and discuss this article and these questions with other people from around the world.

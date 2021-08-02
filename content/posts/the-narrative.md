@@ -47,20 +47,20 @@ After Dr. Mercola noticed that orthodox procedures failed to treat his patients,
 
 Dr. Mercola and doctors like him are labelled as Quacks - the same as five hundred years ago in England.
 
-# Dr. Mercola in the News
+# Media Consolidation 
 
-![Quack?](/uploads/quack.png "Quack?")
+![Media Consolidation](/uploads/media_consolidation.jpg "Media Consolidation")
 
-# Unapproved medical approaches censored
+# Video Transcript
 
-![censorship ](/uploads/censored-internet-user-big-tech.jpg "censorship")
+![censorship ](/uploads/the-fifth-element-the-fifth-element-5076856-1918-796-3-.jpg "censorship")
 
 # Discussion
 
-1. Do you think food is medicine?
-2. Do you use any natural medicine?
-3. Do you think people should be allowed to choose which medicine they use?
-4. Do you think some medicines should be banned or [censored](https://dictionary.cambridge.org/us/dictionary/english/censor)?
-5. Do you believe everything [big pharma](https://dictionary.cambridge.org/us/dictionary/english/big-pharma) says ?
+1. Who owns the media in your country?
+2. Who owns the pharmaceutical companies in your country?
+3. What is the biggest monopoly in your country?
+4. Do the media [censor](https://dictionary.cambridge.org/us/dictionary/english/censor) COVID treatments in your country?
+5. Do you believe everything [t](https://dictionary.cambridge.org/us/dictionary/english/big-pharma)he media says?
 
 [Join our Slack group](https://join.slack.com/t/essential-english/shared_invite/zt-stozzkc3-BacHatpqgrT3b0ilvdDqGQ) and discuss this article and these questions with other people from around the world.

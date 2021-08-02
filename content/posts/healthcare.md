@@ -29,7 +29,7 @@ Sometimes there is no time expression when the past simple is used. This happens
 
 # Listening in Context
 
-[Listen to Dr. Robert Malone talk about ](https://rumble.com/vkkl8m-authoritarian-messaging-must-stop.html)the orthodox medical establishment suppressing his approach to medicine.
+[Listen to Dr. Robert Malone talk about ](https://rumble.com/vkkl8m-authoritarian-messaging-must-stop.html)two different approaches to medicine.
 
 Play it in slow mode if it is too quick.
 

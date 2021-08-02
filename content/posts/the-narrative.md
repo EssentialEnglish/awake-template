@@ -35,17 +35,19 @@ Don't forget to click \[CC] for English subtitles.
 
 # Reading
 
-Five centuries ago a law made by [King Henry the 8th of England](https://www.royal.uk/henry-viii) made it illegal to work as a doctor without the approval of a [panel of experts](https://www.collinsdictionary.com/dictionary/english/expert-panel) from the [Royal College of Physicians](https://www.rcplondon.ac.uk/about-us/who-we-are/history-royal-college-physicians). At that time doctors didn’t work in hospitals or clinics, they worked independently as freelancers. 
+BlackRock and Vanguard Group are the two largest asset management firms in the world. They are the top two owners of Time Warner, Comcast, Disney and News Corp. Companies that control more than 90% of the U.S. media. Together, they form a hidden media monopoly. They have the power to control how people view world events.
 
-As a result of the new law, there was a sudden lack of doctors because the panel of experts only approved certain approaches to medicine. In response, the King made another new law, The Herbalists Charter, which allowed unapproved doctors to go back to work. These doctors later became known as [Quacks](https://www.collinsdictionary.com/dictionary/english/quack). 
+BlackRock and Vanguard are also the two largest shareholders of GlaxoSmithKline and Pfizer. They control both the media and Big Pharma.
 
-Nearly three centuries later the [British Medical Association](https://www.bma.org.uk/) was created. Similar associations were then created in America and around the world. The medical associations based their medicine heavily on surgical procedures and the use of [pharmaceuticals](https://www.collinsdictionary.com/dictionary/english/pharmaceutical). They opposed and sometimes criminalised what they called [unorthodox](https://www.collinsdictionary.com/dictionary/english/unorthodox) procedures. 
+The response to COVID-19 has not optimized public health. For example, there have been more suicides in Japan because of lockdowns than deaths from COVID-19. The mainstream media has been spreading a narrative that is based on fear based and not on hope.
 
-Today, many modern doctors around the world claim that the medical associations promote a myth - the myth that only their approved methods and pharmaceuticals are effective. [Dr. Mercola](https://www.mercola.com/forms/background.htm) is probably the most famous American doctor who speaks out against this myth. 
+Big Pharma is now manufacturing drugs and gene-based “vaccines” against COVID-19, while mainstream media have censored information about readily available treatments that have been shown to have a high degree of success against the infection.
 
-After Dr. Mercola noticed that orthodox procedures failed to treat his patients, he focused on modifying their diet and making them more physically active. Doctors like Dr. Mercola aim to help people adopt healthy diets and lifestyles. They also [strive](https://www.collinsdictionary.com/dictionary/english/strive) to expose corporate, government and mass media hype that diverts people from focusing on nutrition and exercise. 
+BlackRock and Vanguard are not limited to owning Big Pharma and the media. BlackRock also owns shares in nearly 90% of all S&P 500 firms and works closely with central banks around the world. They lend money to the central banks, advise them, and develop their software.
 
-Dr. Mercola and doctors like him are labelled as Quacks - the same as five hundred years ago in England.
+BlackRock and Vanguard are owned by the Rothschild Investment Corp. Edmond De Rothschild Holding the Italian Orsini family, the American Bush family, the British Royal family, the du Pont family, the Morgans, Vanderbilts and Rockefellers.
+
+
 
 # Media Consolidation 
 
@@ -53,7 +55,7 @@ Dr. Mercola and doctors like him are labelled as Quacks - the same as five hundr
 
 # Video Transcript
 
-![censorship ](/uploads/the-fifth-element-the-fifth-element-5076856-1918-796-3-.jpg "censorship")
+![transcript](/uploads/the-fifth-element-the-fifth-element-5076856-1918-796-3-.jpg "transcript")
 
 # Discussion
 
@@ -61,6 +63,6 @@ Dr. Mercola and doctors like him are labelled as Quacks - the same as five hundr
 2. Who owns the pharmaceutical companies in your country?
 3. What is the biggest monopoly in your country?
 4. Do the media [censor](https://dictionary.cambridge.org/us/dictionary/english/censor) COVID treatments in your country?
-5. Do you believe everything [t](https://dictionary.cambridge.org/us/dictionary/english/big-pharma)he media says?
+5. Do you believe everything the media says?
 
 [Join our Slack group](https://join.slack.com/t/essential-english/shared_invite/zt-stozzkc3-BacHatpqgrT3b0ilvdDqGQ) and discuss this article and these questions with other people from around the world.

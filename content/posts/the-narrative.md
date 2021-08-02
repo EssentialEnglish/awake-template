@@ -9,23 +9,23 @@ featureImage: /uploads/ezgif.com-gif-maker.jpg
 ---
 # Grammar
 
-## [Past simple: uses](https://dictionary.cambridge.org/us/grammar/british-grammar/past-simple-i-worked?q=simple+past)
+## [Past simple or present perfect?](https://dictionary.cambridge.org/us/grammar/british-grammar/past-simple-or-present-perfect?q=Past+simple+or+present+perfect)
 
 ### Definite time in the past
 
-We use the past simple to talk about definite time in the past (often we specify when something happened, e.g. *yesterday, three weeks ago, last year, when I was young*):
+We use the past simple to refer to definite time in the past (when we specify the time or how long) and usually with past time expressions such as *yesterday*, *two weeks ago, last year, in 1995*:
 
-> *Did you watch that film yesterday?*
+> *We met in January 1975. We went to America together in 1978.*
 >
-> *He left at the end of November.*
+> Not: We have met in January 1975. We have gone to America together in 1978.
+
+### Time up to now
+
+We use the present perfect to talk about time up to now, that is, events that took place in the past but which connect with the present. The present perfect is often used with time expressions which indicate time up to now, for example *today, this year, in the last six months*:
+
+> *I haven’t seen her since January 1995.*
 >
-> *When they were young, they hated meat.*
-
-### The past simple with no time reference
-
-Sometimes there is no time expression when the past simple is used. This happens especially when we know the time:
-
-> *Leonardo Da Vinci painted the Mona Lisa.* (From our general knowledge, we know that Leonardo Da Vinci painted the Mona Lisa a few hundred years ago.)
+> Not: I didn’t see her since January 1995.
 
 # Listening in Context
 

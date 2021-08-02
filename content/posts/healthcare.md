@@ -9,58 +9,60 @@ featureImage: /uploads/salmon.jpg
 ---
 # Grammar
 
-[The present simple can be used to refer to events in the future](https://dictionary.cambridge.org/us/grammar/british-grammar/future-present-simple-to-talk-about-the-future-i-work-tomorrow?q=Future%3A+present+simple+to+talk+about+the+future+%28I+work+tomorrow%29) which are certain because they are facts, or because there is a clear or fixed schedule or timetable:
+## [Past simple: uses](https://dictionary.cambridge.org/us/grammar/british-grammar/past-simple-i-worked?q=simple+past)
 
-> *Her birthday falls on a Friday next year.* (a known fact about the future)
->
-> *She has her driving test next week, does she?* (a fixed arrangement)
->
-> *The train arrives at 20.12.* (a timetable)
->
-> *What time does their flight to Seoul leave?* (a schedule)
+### Definite time in the past
 
-The reading below uses the present simple to introduce the video presentation. The present simple is often used to introduce topics that will be presented very soon in the future. 
+We use the past simple to talk about definite time in the past (often we specify when something happened, e.g. *yesterday, three weeks ago, last year, when I was young*):
+
+> *Did you watch that film yesterday?*
+>
+> *He left at the end of November.*
+>
+> *When they were young, they hated meat.*
+
+### The past simple with no time reference
+
+Sometimes there is no time expression when the past simple is used. This happens especially when we know the time:
+
+> *Leonardo Da Vinci painted the Mona Lisa.* (From our general knowledge, we know that Leonardo Da Vinci painted the Mona Lisa a few hundred years ago.)
 
 # Listening in Context
 
-[Listen to Micheal Clarage talk about ](https://www.youtube.com/watch?v=pQ-M_iPMPVk)where shape comes from.
+[Listen to Dr. Robert Malone talk about ](https://rumble.com/vkkl8m-authoritarian-messaging-must-stop.html)the orthodox medical establishment suppressing his approach to medicine.
 
-Don't forget to press \[CC] for English subtitles.
+Play it in slow mode if it is too quick.
 
 # Reading
 
+Five centuries ago a law made by [King Henry the 8th of England](https://www.royal.uk/henry-viii) made it illegal to work as a doctor without the approval of a [panel of experts](https://www.collinsdictionary.com/dictionary/english/expert-panel) from the [Royal College of Physicians](https://www.rcplondon.ac.uk/about-us/who-we-are/history-royal-college-physicians). At that time doctors didn’t work in hospitals or clinics, they worked independently as freelancers. 
+
+As a result of the new law, there was a sudden lack of doctors because the panel of experts only approved certain approaches to medicine. In response, the King made another new law, The Herbalists Charter, which allowed unapproved doctors to go back to work. These doctors later became known as [Quacks](https://www.collinsdictionary.com/dictionary/english/quack). 
+
+Nearly three centuries later the [British Medical Association](https://www.bma.org.uk/) was created. Similar associations were then created in America and around the world. The medical associations based their medicine heavily on surgical procedures and the use of [pharmaceuticals](https://www.collinsdictionary.com/dictionary/english/pharmaceutical). They opposed and sometimes criminalised what they called [unorthodox](https://www.collinsdictionary.com/dictionary/english/unorthodox) procedures. 
+
+Today, many modern doctors around the world claim that the medical associations promote a myth - the myth that only their approved methods and pharmaceuticals are effective. [Dr. Mercola](https://www.mercola.com/forms/background.htm) is probably the most famous American doctor who speaks out against this myth. 
+
+After Dr. Mercola noticed that orthodox procedures failed to treat his patients, he focused on modifying their diet and making them more physically active. Doctors like Dr. Mercola aim to help people adopt healthy diets and lifestyles. They also [strive](https://www.collinsdictionary.com/dictionary/english/strive) to expose corporate, government and mass media hype that diverts people from focusing on nutrition and exercise. 
+
+Dr. Mercola and doctors like him are labelled as Quacks - the same as five hundred years ago in England.
+
+# Dr. Mercola in the News
+
+![Quack?](/uploads/quack.png "Quack?")
+
+# Unapproved medical approaches censored 
+
+![censorship ](/uploads/censored-internet-user-big-tech.jpg "censorship")
 
 
-Five centuries ago a law made by King Henry the 8th of England made it illegal to work as a doctor without the approval of a panel of experts from the Royal College of Physicians. At that time doctors didn’t work in hospitals or clinics, they worked independently as freelancers. 
-
-As a result of the new law, there was a sudden lack of doctors because the panel of experts only approved certain approaches to medicine. In response, the King made another new law, The Herbalists Charter which allowed unapproved doctors to go back to work. These doctors later became known as Quacks. 
-
-Nearly three centuries later the British Medical Association was created. Similar associations were then created in America and around the world. The medical associations based their medicine heavily on surgical procedures and the use of pharmaceuticals. They opposed and sometimes criminalised what they called unorthodox procedures. 
-
-Today, many modern doctors around the world claim that the medical associations promote a myth - the myth that only their approved methods and pharmaceuticals are effective. Dr. Mercola is probably the most famous American doctor who speaks out against this myth. 
-
-After Dr. Mercola noticed that orthodox procedures failed to treat his patients, he focused on modifying their diet and making them more physically active. Doctors like Dr. Mercola aim to help people adopt healthy diets and lifestyles. They also strive to expose corporate, government and mass media hype that diverts people from focusing on nutrition and exercise. 
-
-Dr. Mercola and doctors like him are labeled as Quacks - the same as five hundred years ago in England.
-
-
-
-# Electricity in the News
-
-![Japanese Volcano](/uploads/electric.png "Japanese Volcano")
-
-# Cymatics and the Fibonacci Sequence in Nature
-
-![cymatics ](/uploads/the-golden-ratio-teaser.jpg "cymatics")
-
-![Bending Water](/uploads/snow.jpg "Bending Water")
 
 # Discussion
 
-1. Have you seen the effects of cymatic frequencies?
-2. Have you seen the Fibonacci series in nature?
-3. Have you seen the aurora borealis?
-4. What role does electricity play in your body?
-5. What role does electricity play in the universe?
+1. Do you think food is medicine?
+2. Do you use any natural medicine?
+3. Do you think people should be allowed to choose which medicine they use?
+4. Do you think some medicines should be banned or [censored](https://dictionary.cambridge.org/us/dictionary/english/censor)?
+5. Do you believe everything [big pharma](https://dictionary.cambridge.org/us/dictionary/english/big-pharma) says ?
 
 [Join our Slack group](https://join.slack.com/t/essential-english/shared_invite/zt-stozzkc3-BacHatpqgrT3b0ilvdDqGQ) and discuss this article and these questions with other people from around the world.

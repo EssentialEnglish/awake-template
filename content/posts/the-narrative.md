@@ -1,8 +1,8 @@
 ---
-title: "The Narrative "
-subtitle: Who creates it?
+title: The Media
+subtitle: Who owns it?
 category:
-  - Essential Science
+  - Essential Foundations
 author: Eddie
 date: 2021-08-02T14:21:10.614Z
 featureImage: /uploads/citizen-kane.jpg
@@ -29,9 +29,9 @@ Sometimes there is no time expression when the past simple is used. This happens
 
 # Listening in Context
 
-[Listen to Dr. Robert Malone talk about ](https://rumble.com/vkkl8m-authoritarian-messaging-must-stop.html)two different approaches to medicine.
+[](https://www.youtube.com/watch?v=D2t4u_tEefM&t=6s)[Listen to Women for Freedom](https://www.youtube.com/watch?v=D2t4u_tEefM&t=6s) explain who owns the media.
 
-Play it in slow mode if it is too quick.
+Don't forget to click \[CC] for English subtitles.
 
 # Reading
 
@@ -51,11 +51,9 @@ Dr. Mercola and doctors like him are labelled as Quacks - the same as five hundr
 
 ![Quack?](/uploads/quack.png "Quack?")
 
-# Unapproved medical approaches censored 
+# Unapproved medical approaches censored
 
 ![censorship ](/uploads/censored-internet-user-big-tech.jpg "censorship")
-
-
 
 # Discussion
 

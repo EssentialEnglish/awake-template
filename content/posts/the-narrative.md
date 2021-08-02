@@ -5,7 +5,7 @@ category:
   - Essential Foundations
 author: Eddie
 date: 2021-08-02T14:21:10.614Z
-featureImage: /uploads/citizenkane-1.webp
+featureImage: /uploads/ezgif.com-gif-maker.jpg
 ---
 # Grammar
 

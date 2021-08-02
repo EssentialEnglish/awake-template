@@ -55,7 +55,7 @@ BlackRock and Vanguard are owned by the Rothschild Investment Corp. Edmond De Ro
 
 # Video Transcript
 
-![transcript](/uploads/the-fifth-element-the-fifth-element-5076856-1918-796-3-.jpg "transcript")
+![transcript](/uploads/the-fifth-element-the-fifth-element-5076856-1918-796-4-.jpg "transcript")
 
 # Discussion
 

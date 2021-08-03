@@ -35,21 +35,19 @@ Don't forget to click \[CC] for English subtitles.
 
 # Reading
 
-BlackRock and Vanguard Group are the two largest asset management firms in the world. They are the top two owners of Time Warner, Comcast, Disney and News Corp. Companies that control more than 90% of the U.S. media. Together, they form a hidden media monopoly. They have the power to control how people view world events.
+[BlackRock](https://www.blackrock.com/corporate/global-directory) and [Vanguard Group](https://investor.vanguard.com/corporate-portal/) are the two largest [asset management firms](https://dictionary.cambridge.org/us/dictionary/english/asset-management) in the world. They are the top two owners of Time Warner, Comcast, Disney and News Corp. Companies that control more than 90% of the U.S. media. Together, they form a hidden media [monopoly](https://dictionary.cambridge.org/us/dictionary/english/monopoly). They have the power to control how people view world events.
 
-BlackRock and Vanguard are also the two largest shareholders of GlaxoSmithKline and Pfizer. They control both the media and Big Pharma.
+BlackRock and Vanguard are also the two largest [shareholders](https://dictionary.cambridge.org/us/dictionary/english/shareholder) of GlaxoSmithKline and Pfizer. They control both the media and [Big Pharma](https://dictionary.cambridge.org/us/dictionary/english/big-pharma).
 
-The response to COVID-19 has not optimized public health. For example, there have been more suicides in Japan because of lockdowns than deaths from COVID-19. The mainstream media has been spreading a narrative that is based on fear based and not on hope.
+The response to COVID-19 has not [optimized](https://dictionary.cambridge.org/us/dictionary/english/optimize?q=optimized) public health. For example, there have been more suicides in Japan because of lockdowns than deaths from COVID-19. The[ mainstream media](https://dictionary.cambridge.org/us/dictionary/english/mainstream-media?q=+mainstream+media) has been spreading a [narrative](https://dictionary.cambridge.org/us/dictionary/english/narrative) that is based on fear based and not on hope.
 
-Big Pharma is now manufacturing drugs and gene-based “vaccines” against COVID-19, while mainstream media have censored information about readily available treatments that have been shown to have a high degree of success against the infection.
+Big Pharma is now manufacturing drugs and [gene-therapy](https://dictionary.cambridge.org/us/dictionary/english/gene-therapy) “vaccines” against COVID-19, while mainstream media have [censored](https://dictionary.cambridge.org/us/dictionary/english/censor?q=censored) information about [readily available](https://www.collinsdictionary.com/us/dictionary/english/readily-available) treatments that have been shown to have a high degree of success against the infection.
 
-BlackRock and Vanguard are not limited to owning Big Pharma and the media. BlackRock also owns shares in nearly 90% of all S&P 500 firms and works closely with central banks around the world. They lend money to the central banks, advise them, and develop their software.
+BlackRock and Vanguard are not limited to owning Big Pharma and the media. BlackRock also owns shares in nearly 90% of all [S&P 500 firms](https://dictionary.cambridge.org/us/dictionary/english/s-p-500) and works closely with central banks around the world. They lend money to the central banks, advise them, and develop their software.
 
 BlackRock and Vanguard are owned by the Rothschild Investment Corp. Edmond De Rothschild Holding the Italian Orsini family, the American Bush family, the British Royal family, the du Pont family, the Morgans, Vanderbilts and Rockefellers.
 
-
-
-# Media Consolidation 
+# Media Consolidation
 
 ![Media Consolidation](/uploads/media_consolidation.jpg "Media Consolidation")
 
